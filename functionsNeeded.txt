@@ -1,0 +1,8 @@
+User moves - Grant
+Computer moves - Say Davis
+Choose best move for computer - Saurabh
+way to store the tic tac toe board - Caleb
+something to decide winner or tie - Vira
+valid move - Celeste
+display board - Kaustubh Holcomb
+isFull - Vira
