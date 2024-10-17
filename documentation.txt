@@ -1,0 +1,23 @@
+Code Flow
+
+Create a 2D vector "board"
+Display instructions to take input
+void displayBoard()
+Run over a loop of MAX_MOVES:
+    void userMove():
+        Get user input for moves
+        bool isValid()
+        bool isFullOrTie()
+        Board storeBoard(x,y)
+        void displayBoard
+    void computerMove():
+        Move chooseBestForComputer():
+            Create an array of all valid moves
+            Implement mutual recursion to find the best move for the computer which is also worst for the user
+            Return best move
+        bool isFullOrTie()
+        Board storeBoard(x,y)
+    void CheckWinner()
+
+    
+        
