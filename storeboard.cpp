@@ -6,7 +6,9 @@ class Board {
     protected:
 
     /*
-    - set the board as a 3 x 3
+    *I have also re-done this in a header and cpp file implmentation for better organization*
+
+    - set the board as a 3 x 3 using a 2d vector of characters
 
     - each of the cells in the board start empty ' ' 
 
